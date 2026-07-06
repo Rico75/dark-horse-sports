@@ -1,21 +1,25 @@
-# Dark Horse Sports Podcast
+# Dark Horse Sports
 
-Static website for the **Dark Horse Sports Podcast** podcast, including episode pages, character archetypes, stories, psychology content, and RSS access.
+Static site for the **Dark Horse Sports** YouTube playlist and episode archive.
 
 ## Project structure
 
-The site is served from the `docs/` folder:
+The site is served from `docs/`:
 
 - `docs/index.html` — homepage
-- `docs/episodes/` — episodes listing and individual episode page(s)
-- `docs/characters/` — archetype hub and character pages
-- `docs/stories/` — story-focused content
-- `docs/psychology/` — poker psychology topics
-- `docs/art/` — art and animation page
-- `docs/assets/` — media/brand assets page
+- `docs/episodes/` — episode archive and individual episode pages
+- `docs/hosts/` — host/archetype hub and character pages
 - `docs/about/` — creator/about page
 - `docs/contact/` — contact and mailing list links
-- `docs/rss/` — RSS landing page and podcast XML feed
+- `docs/assets/` — CSS, images, and site assets
+- `docs/rss/` — RSS landing page and feed XML files
+
+## Playlist metadata
+
+- **Title:** Dark Horse Sports
+- **Channel:** Dark Horse Sports Talk
+- **Playlist:** `PLK17qjXUqfN_ZyNf4JJHgXMbZ6KUm1p5T`
+- **Thumbnail:** `https://i.ytimg.com/vi/clUWeHUAGI4/hqdefault.jpg`
 
 ## Run locally
 
@@ -34,5 +38,4 @@ http://localhost:8000/
 
 ## Publishing
 
-This repo is set up like a GitHub Pages-style static site (content in `docs/`).  
-Publish by deploying the `docs/` directory as your site root.
+Deploy the `docs/` directory as the site root for GitHub Pages or any static host.
