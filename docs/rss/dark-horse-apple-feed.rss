@@ -10,10 +10,12 @@
     <channel>
 
         <title><![CDATA[Dark Horse Sports Podcast]]></title>
-        <link>https://www.youtube.com/playlist?list=PLHg9TshvWfNcG9FTFx59RtwpvVgui0fpo</link>
-        <description><![CDATA[Welcome to Dark Horse Sports Podcast. I’m Rico — and if you’ve ever sat down at a poker table and felt that mix of adrenaline, curiosity, and quiet calculation… you’re in the right place.]]></description>
+        <link>https://rico75.github.io/poker-tales-from-across-the-table/</link>
+        <description><![CDATA[
+      Welcome to Dark Horse Sports Podcast. I’m Rico — and if you’ve ever sat down at a poker table and felt that mix of adrenaline, curiosity, and quiet calculation… you’re in the right place.
+    ]]></description>
 
-        <atom:link href="https://rico75.github.io/poker-tales-from-across-the-table/rss/poker-tales-apple-feed.rss"
+        <atom:link href="https://rico75.github.io/dark-horse-sports/rss/dark-horse-apple-feed.rss"
                    rel="self"
                    type="application/rss+xml"/>
 
@@ -27,7 +29,7 @@
         <image>
             <url>https://rico75.github.io/poker-tales-from-across-the-table/assets/img/PokerTales3000x3000.png</url>
             <title>Dark Horse Sports Podcast</title>
-            <link>https://www.youtube.com/playlist?list=PLHg9TshvWfNcG9FTFx59RtwpvVgui0fpo</link>
+            <link>https://rico75.github.io/poker-tales-from-across-the-table/</link>
         </image>
 
         <itunes:image href="https://rico75.github.io/poker-tales-from-across-the-table/assets/img/PokerTales3000x3000.png"/>
@@ -58,13 +60,13 @@
             <title><![CDATA[Dark Horse Sports Podcast IntroFinal]]></title>
             <itunes:title><![CDATA[Dark Horse Sports Podcast IntroFinal]]></itunes:title>
 
-            <description><![CDATA[
-        <p>This is a poker cast that takes you on a poker journey with stories that came from years of sitting at the poker tables.</p>
-      ]]></description>
+            <description><![CDATA[<p>This is a poker cast that takes you on a poker journey with stories that came from years of sitting at the poker tables.</p>]]></description>
 
-            <link>https://youtu.be/7QucuUYgxvw</link>
+            <link>https://rico75.github.io/poker-tales-from-across-the-table/episodes/episode-1.html</link>
 
-            <guid isPermaLink="true">https://youtu.be/7QucuUYgxvw</guid>
+            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/assets/media/TalesFromAcrossTheTable-IntroFinal.mp3"
+                       length="88244"
+                       type="audio/mpeg"/>
 
             <guid isPermaLink="false">poker-tales-s1e0</guid>
 
@@ -94,9 +96,11 @@
         <p>The first episode where the table reads you.</p>
       ]]></description>
 
-            <link>https://youtu.be/GXPYoAGnaF0</link>
+            <link>https://rico75.github.io/poker-tales-from-across-the-table/episodes/episode-1.html</link>
 
-            <guid isPermaLink="true">https://youtu.be/GXPYoAGnaF0</guid>
+            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/assets/media/TalesFromAcrossTheTable-Episode1.mp3"
+                       length="88244"
+                       type="audio/mpeg"/>
 
             <guid isPermaLink="false">poker-tales-s1e1</guid>
 
@@ -126,9 +130,11 @@
         <p>This is episode 2 -- "The Taser Duel — Never Underestimate Your Opponents."</p>
       ]]></description>
 
-            <link>https://youtu.be/vo11mtpnBbQ</link>
+            <link>https://rico75.github.io/poker-tales-from-across-the-table/episodes/episode-2.html</link>
 
-            <guid isPermaLink="true">https://youtu.be/vo11mtpnBbQ</guid>
+            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/assets/media/TalesFromAcrossTheTable-Episode2.mp3"
+                       length="88244"
+                       type="audio/mpeg"/>
 
             <guid isPermaLink="false">poker-tales-s1e2</guid>
 
@@ -158,9 +164,11 @@
         <p>This episode talks about the Foreigner and how he was able to dominate the table in the WSOP by being consistent.</p>
       ]]></description>
 
-            <link>https://youtu.be/awJITYBtqIc</link>
+            <link>https://rico75.github.io/poker-tales-from-across-the-table/episodes/episode-3.html</link>
 
-            <guid isPermaLink="true">https://youtu.be/awJITYBtqIc</guid>
+            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/assets/media/TalesFromAcrossTheTable-Episode3.mp3"
+                       length="88244"
+                       type="audio/mpeg"/>
 
             <guid isPermaLink="false">poker-tales-s1e3</guid>
 
@@ -191,9 +199,11 @@
         <p>From one chip to a playable stack, Rico breaks down hand reading and table image manipulation. A masterclass in short-stack strategy and opponent profiling.</p>
       ]]></description>
 
-            <link>https://youtu.be/PgsukEpriyY</link>
+            <link>https://rico75.github.io/poker-tales-from-across-the-table/episodes/episode-4.html</link>
 
-            <guid isPermaLink="true">https://youtu.be/PgsukEpriyY</guid>
+            <enclosure url="https://rico75.github.io/poker-tales-from-across-the-table/assets/media/TalesFromAcrossTheTable-Episode4.mp3"
+                       length="88244"
+                       type="audio/mpeg"/>
 
             <guid isPermaLink="false">poker-tales-s1e4</guid>
 
